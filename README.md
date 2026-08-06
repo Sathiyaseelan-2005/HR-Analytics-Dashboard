@@ -214,5 +214,4 @@ HR-Analytics-Dashboard/
 ---
 
 # Author
-
-Sathiyaseelan Nagaraj
+Swetha
