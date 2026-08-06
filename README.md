@@ -207,11 +207,6 @@ HR-Analytics-Dashboard/
 
 ---
 
-# Dashboard Preview
-
-(Add dashboard screenshots here)
-
----
 
 # Author
 Swetha
